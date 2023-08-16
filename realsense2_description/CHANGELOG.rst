@@ -2,8 +2,8 @@
 Changelog for package realsense2_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.3.3 (2023-08-16)
+------------------
 * PR `#1637 <https://github.com/clearpathrobotics/realsense_ros/issues/1637>`_ from LuAPi: Add include guard to materials
 * Add include guard to materials
   Prevents material already defined errors when adding multiple types of camera to a robot

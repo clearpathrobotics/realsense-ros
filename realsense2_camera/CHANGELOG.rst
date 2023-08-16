@@ -2,8 +2,8 @@
 Changelog for package realsense2_camera
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.3.3 (2023-08-16)
+------------------
 * Merge branch 'scottnothing-package-includes' into development
 * Allow the catkin package to be included in other projects
 * Merge pull request `#2239 <https://github.com/clearpathrobotics/realsense_ros/issues/2239>`_ from fredotran/development
