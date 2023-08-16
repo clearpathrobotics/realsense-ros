@@ -2,6 +2,18 @@
 Changelog for package realsense2_camera
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge branch 'scottnothing-package-includes' into development
+* Allow the catkin package to be included in other projects
+* Merge pull request `#2239 <https://github.com/clearpathrobotics/realsense_ros/issues/2239>`_ from fredotran/development
+  fix std::find_if issues
+* fix std::find_if issues
+* Merge pull request `#2235 <https://github.com/clearpathrobotics/realsense_ros/issues/2235>`_ from doronhi/fix_metadata_timestamp
+  Fix Metadata timestamps
+* set metadata messages header time stamp to match images time stamp.
+* Contributors: Frederic Tran, Terry Scott, doronhi
+
 2.3.2 (2021-11-15)
 ------------------
 * publish metadata
